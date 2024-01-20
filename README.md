@@ -1,4 +1,4 @@
-<p>Welcome to our HTML Exercises Lessons for beginners! 🚀</p>
+<p>Welcome to our HTML Exercises Lessons for Beginners! 🚀</p>
 
 <p>Embark on an exciting journey into the world of web development with our beginner-friendly HTML lessons. In this course, you'll dive into the fundamental building blocks of the web - HTML. But here's the twist - we believe in hands-on learning!</p>
 
